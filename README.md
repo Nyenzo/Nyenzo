@@ -25,11 +25,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **NGINX, React, puppet, Nodejs, flask**
+- 🔭 I’m currently working on **Nextjs, React,  Nodejs, flask, **
 
-- ☁️ I've keen interest in Devops. So,I'm learning **NGINX**
-
-- 💬 Ask me about **NGINX, puppet, nodejs, flask**
+- 💬 Ask me about **AI, DataScience, nodejs, flask**
 
 - 📫 Feel free to reach me out **nyenzoisabwa@gmail.com**
 
