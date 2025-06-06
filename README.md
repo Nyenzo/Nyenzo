@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **AI, DataScience, nodejs, flask**
 
-- 📫 Feel free to reach me out **nyenzoisabwa@gmail.com**
+- 📫 Feel free to reach out to me **nyenzoisabwa@gmail.com**
 
 <!--Intro end-->
 
