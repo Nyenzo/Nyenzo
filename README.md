@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Nextjs, Tensorflow,  Nodejs, flask, scikit-learn **
+- 🔭 I’m currently working on **Mindspore, Tensorflow,  Nodejs, flask, scikit-learn **
 
 - 💬 Ask me about **AI, DataScience, nodejs, flask**
 
