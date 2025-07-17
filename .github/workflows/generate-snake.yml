@@ -1,0 +1,22 @@
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch: # Allows manual triggering
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snakemake@v3
+        with:
+          directory: ./
+          output: ./output/snake.svg
+          github_user_name: Nyenzo
+      - name: Commit snake animation
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ./output/snake.svg
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
