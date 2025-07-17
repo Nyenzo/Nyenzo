@@ -8,11 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: Platane/snakemake@v3
+      - uses: Platane/snk@v3
         with:
-          directory: ./
-          output: ./output/snake.svg
           github_user_name: Nyenzo
+          outputs: ./output/snake.svg
       - name: Commit snake animation
         run: |
           git config --local user.email "action@github.com"
