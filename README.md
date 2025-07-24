@@ -10,7 +10,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://github.com/Nyenzo/Nyenzo/blob/output/snake.svg?raw=true" alt="Snake animation" />
+  <img src="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?raw=true" alt="Snake animation" />
 </div>
 
 <!--h2 without bottom border-->
