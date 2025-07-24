@@ -9,8 +9,13 @@
 </div>
 
 <!--- snake -->
-<div align="center">
-  <img src="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?raw=true" alt="Snake animation" />
+<div align="center" style="max-width: 100%; overflow: hidden;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?palette=github-dark&raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?palette=github-light&raw=true" />
+    <img alt="Snake animation of my GitHub contributions" src="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?raw=true" style="max-width: 80%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  </picture>
+  <p style="color: #2ecc71; font-size: 14px; margin-top: 5px;">🎮 Animated view of my GitHub contribution journey!</p>
 </div>
 
 <!--h2 without bottom border-->
