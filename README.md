@@ -106,7 +106,7 @@
 
 <!--profile visit count-->
 <div align="center">
-  [!](https://visitcount.itsvg.in)
+  <img src="https://komarev.com/ghpvc/?username=Nyenzo&color=2ecc71&style=flat-square" alt="Profile views" />
 </div>
 
 <!--horizontal divider(gradiant)-->
