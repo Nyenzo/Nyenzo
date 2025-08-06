@@ -4,23 +4,23 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nyenzo</h1></summary>
+    <summary><h1 style="display: inline-block; color: #333">Hi 👋, I'm Nyenzo</h1></summary>
   </ul>
 </div>
 
 <!--- snake -->
 <div align="center" style="max-width: 100%; overflow: hidden;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?palette=black,green,gray&raw=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?palette=gray,green,lightgray&raw=true" />
-    <img alt="Snake animation of my GitHub contributions" src="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?raw=true" style="max-width: 80%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?palette=white,green,lightgray&raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?palette=lightgray,green,white&raw=true" />
+    <img alt="Snake animation of my GitHub contributions" src="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?raw=true" style="max-width: 80%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); background-color: #f5f5f5;" />
   </picture>
 </div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block; color: #333">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
 
@@ -39,13 +39,13 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nyenzo&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nyenzo&theme=light&show_icons=true&count_private=true" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile" alt="Nyenzo's streak" src="https://gitmoji-streak-stats.vercel.app/api?user=Nyenzo&theme=dark" />
+  <img title="🔥 Get streak stats for your profile" alt="Nyenzo's streak" src="https://streak-stats.demolab.com/?user=Nyenzo&theme=light" />
 </td>
 
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nyenzo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nyenzo&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
 </table>
@@ -54,7 +54,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Nyenzo&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Nyenzo&theme=light&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
 </div>
 <!--- trophy (end) -->
@@ -65,7 +65,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Language and Tech tools👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block; color: #333">Language and Tech tools👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
@@ -91,11 +91,25 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block; color: #333">Connect With Me🤝</h2></summary>
   </ul>
 </div>
 
 <!--icons and links-->
 <p align="center">
   <a href="https://www.linkedin.com/in/peter-nyenzo-isabwa-806baa196/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://twitter.com/NyenzoI" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b
+  <a href="https://twitter.com/NyenzoI" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+</p>
+
+<h2 align="left" style="color: #333">Support:</h2>
+<p><a href="https://www.buymeacoffee.com/nyenzoisab5"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
+
+<!--profile visit count-->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nyenzo&color=2ecc71&style=flat-square" alt="Profile views" />
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
