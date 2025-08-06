@@ -41,7 +41,7 @@
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nyenzo&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nyenzo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyenzo&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
+  <img title="🔥 Get streak stats for your profile" alt="Nyenzo's streak" src="https://gitmoji-streak-stats.vercel.app/api?user=Nyenzo&theme=dark" />
 </td>
 
 <td width="50%" align="center">
@@ -97,19 +97,5 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/nyenzo-isabwa-5b0734352/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://twitter.com/NyenzoI" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-</p>
-
-<h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/nyenzoisab5"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
-
-<!--profile visit count-->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nyenzo&color=2ecc71&style=flat-square" alt="Profile views" />
-</div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
+  <a href="https://www.linkedin.com/in/peter-nyenzo-isabwa-806baa196/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://twitter.com/NyenzoI" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b
