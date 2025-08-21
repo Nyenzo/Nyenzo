@@ -46,7 +46,7 @@
   </picture>
   <br></br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.vercel.app/?user=Nyenzo&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nyenzo&show_icons=true&locale=en" alt="Nyenzo" /></p>?user=Nyenzo&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.vercel.app/?user=Nyenzo&theme=light" />
     <img title="🔥 Get streak stats for your profile" alt="Nyenzo's streak" src="https://streak-stats.demolab.com/?user=Nyenzo&theme=light" />
   </picture>
