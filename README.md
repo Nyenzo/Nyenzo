@@ -27,7 +27,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Pytorch, Tensorflow, Nodejs, flask, scikit-learn**
 
-- 💬 Ask me about **AI, DataScience, nodejs, flask**
+- 💬 Ask me about **AI, DataScience, FastApi, flask**
 
 - 📫 Feel free to reach out to me **nyenzoisabwa@gmail.com**
 
