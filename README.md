@@ -1,115 +1,117 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block; color: #333">Hi 👋, I'm Nyenzo</h1></summary>
-  </ul>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2937,100:22c55e&height=220&section=header&text=Nyenzo%20Isabwa&fontSize=54&fontColor=f8fafc&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Product%20Minded&descAlignY=60&descSize=18" alt="Nyenzo Isabwa profile banner" width="100%" />
+
+  <a href="https://github.com/Nyenzo">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=86EFAC&center=true&vCenter=true&width=720&lines=Building+useful+software+with+curiosity;Turning+confusion+into+working+systems;AI+%C2%B7+Data+%C2%B7+APIs+%C2%B7+Cloud+infrastructure" alt="Typing introduction" />
+  </a>
+
+  <p>
+    <a href="https://github.com/Nyenzo?tab=followers"><img src="https://img.shields.io/github/followers/Nyenzo?style=for-the-badge&logo=github&label=Followers&color=111827" alt="GitHub followers" /></a>
+    <a href="https://github.com/Nyenzo"><img src="https://komarev.com/ghpvc/?username=Nyenzo&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" alt="Profile views" /></a>
+    <a href="mailto:nyenzoisabwa@gmail.com"><img src="https://img.shields.io/badge/Let's%20collaborate-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nyenzo" /></a>
+  </p>
+
 </div>
 
-<!--- snake -->
-<div align="center" style="max-width: 100%; overflow: hidden;">
+## 👋 Hello, I'm Nyenzo
+
+> **Confusion is part of programming.**  
+> The fun begins when we turn it into clarity, products, and systems that help people.
+
+I’m a software engineer from **Nairobi, Kenya**, interested in the space where thoughtful product design meets dependable engineering. I build across backend systems, AI-powered workflows, developer tools, and cloud infrastructure.
+
+```text
+Currently exploring   Python · FastAPI · PyTorch · TensorFlow · Node.js · Flask · scikit-learn
+I enjoy discussing   AI · data science · APIs · system design · developer experience
+Open to              meaningful collaborations, ambitious products, and interesting problems
+```
+
+<div align="center">
+  <a href="mailto:nyenzoisabwa@gmail.com"><img src="https://img.shields.io/badge/Email%20me-nyenzoisabwa%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nyenzo" /></a>
+  <a href="https://www.linkedin.com/in/peter-nyenzo-isabwa-806baa196/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nyenzo on LinkedIn" /></a>
+  <a href="https://twitter.com/NyenzoI"><img src="https://img.shields.io/badge/X-follow-111827?style=for-the-badge&logo=x&logoColor=white" alt="Nyenzo on X" /></a>
+</div>
+
+<br />
+
+## 🧭 What I Build
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧠 Intelligent products</h3>
+      <p>AI features that solve real workflow problems: extraction, matching, recommendations, and human-friendly automation.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Reliable backends</h3>
+      <p>Typed APIs, background jobs, data access layers, validation, authorization, and services that are easy to operate.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>☁️ Practical delivery</h3>
+      <p>Containerized deployments, observability, CI/CD, and infrastructure that keeps products moving from laptop to production.</p>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Technology I Reach For
+
+<div align="center">
+
+### Languages & frameworks
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,flask,nodejs,react,pytorch,tensorflow&perline=9" alt="Python, TypeScript, JavaScript, FastAPI, Flask, Node.js, React, PyTorch, TensorFlow" />
+
+### Data, cloud & delivery
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,docker,kubernetes,nginx,gcp,git,github,postman&perline=11" alt="PostgreSQL, Redis, MongoDB, MySQL, Docker, Kubernetes, Nginx, Google Cloud, Git, GitHub, Postman" />
+
+</div>
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+  <a href="https://github.com/Nyenzo">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nyenzo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=github_dark&bg_color=00000000&title_color=86efac&icon_color=86efac&text_color=cbd5e1" alt="Nyenzo's GitHub statistics" />
+  </a>
+  <a href="https://github.com/Nyenzo">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyenzo&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=00000000&title_color=86efac&text_color=cbd5e1" alt="Nyenzo's most used languages" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nyenzo&hide_border=true&background=00000000&ring=86efac&fire=22c55e&currStreakLabel=86efac&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc" alt="Nyenzo's GitHub contribution streak" width="700" />
+</div>
+
+<details>
+  <summary><strong>🏆 Achievements</strong></summary>
+  <br />
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nyenzo&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="Nyenzo's GitHub trophies" width="820" />
+  </div>
+</details>
+
+## 🐍 Contribution Trail
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?palette=white,green,lightgray&raw=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?palette=lightgray,green,white&raw=true" />
-    <img alt="Snake animation of my GitHub contributions" src="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?raw=true" style="max-width: 80%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); background-color: #f5f5f5;" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?palette=github-dark&raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?palette=github-light&raw=true" />
+    <img src="https://github.com/Nyenzo/Nyenzo/blob/main/output/snake.svg?raw=true" alt="Snake animation of Nyenzo's GitHub contributions" width="90%" />
   </picture>
 </div>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block; color: #333">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+## 🤝 Let's Connect
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Pytorch, Tensorflow, Nodejs, flask, scikit-learn**
+Have a product idea, a hard engineering problem, or an interesting collaboration in mind? I’d love to hear from you.
 
-- 💬 Ask me about **AI, DataScience, FastApi, flask**
-
-- 📫 Feel free to reach out to me **nyenzoisabwa@gmail.com**
-
-<!--Intro end-->
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nyenzo&theme=light&show_icons=true&count_private=true" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile" alt="Nyenzo's streak" src="https://streak-stats.demolab.com/?user=Nyenzo&theme=light" />
-</td>
-
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nyenzo&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Nyenzo&theme=light&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</div>
-<!--- trophy (end) -->
-
-</p>        
 <div align="center">
-  <h2>Language and Tech Tools 👨🏻‍💻</h2>
-
-  <table>
-    <tr>
-      <td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a></td>
-      <td><a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a></td>
-      <td><a href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/></a></td>
-      <td><a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a></td>
-      <td><a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/></a></td>
-      <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a></td>
-      <td><a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a></td>
-      <td><a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a></td>
-      <td><a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/></a></td>
-      <td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a></td>
-      <td><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a></td>
-      <td><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a></td>
-      <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a></td>
-    </tr>
-  </table>
-</div>
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block; color: #333">Connect With Me🤝</h2></summary>
-  </ul>
+  <a href="mailto:nyenzoisabwa@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20conversation-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation by email" /></a>
+  <a href="https://www.buymeacoffee.com/nyenzoisab5"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="42" alt="Buy me a coffee" /></a>
 </div>
 
-<!--icons and links-->
-<p align="center">
-  <a href="https://www.linkedin.com/in/peter-nyenzo-isabwa-806baa196/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://twitter.com/NyenzoI" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-</p>
+<br />
 
-<h2 align="left" style="color: #333">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/nyenzoisab5"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
-
-<!--profile visit count-->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nyenzo&color=2ecc71&style=flat-square" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:1f2937,100:111827&height=120&section=footer" alt="" width="100%" />
 </div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
